@@ -21,7 +21,7 @@ void xor_encrypt_decrypt(char *input, char *key) {
 }
 
 int main() {
-    char url[] = "WELCOME";
+    char url[] = "SUBASH";
     char key[] = "secretkey";
     
     printf("Original text: %s\n", url);
@@ -34,8 +34,8 @@ int main() {
 }
 ```
 # OUTPUT:
+![Screenshot 2025-05-24 215034](https://github.com/user-attachments/assets/ecb00c36-5237-48f1-b85c-a4a4bb09995c)
 
-![Screenshot 2025-05-19 194312](https://github.com/user-attachments/assets/6b084cb9-1ebc-4eb7-b4f3-23acd0dc57b1)
 
 # RESULT:
 The program for advanced-encryption-standard algorithm was successful
